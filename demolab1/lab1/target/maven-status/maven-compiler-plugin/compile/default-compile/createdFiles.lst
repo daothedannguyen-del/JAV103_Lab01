@@ -1,0 +1,4 @@
+com\lab1\model\Product.class
+com\lab1\servlet\HomeServlet.class
+com\lab1\servlet\LoginServlet.class
+com\lab1\servlet\ProductServlet.class
